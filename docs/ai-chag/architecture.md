@@ -76,7 +76,7 @@ graph TB
     MAIN --> FAST
     QA --> INTERFACE
     KIS --> INTERFACE
-    TR AKE --> INTERFACE
+    TRAKE --> INTERFACE
     
     INTERFACE --> EMB_INFRA
     INTERFACE --> QDRANT_INFRA
