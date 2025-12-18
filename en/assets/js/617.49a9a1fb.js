@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_docs=self.webpackChunkportfolio_docs||[]).push([[617],{617(e,o,s){s.d(o,{createPieServices:()=>c.f});var c=s(9150);s(7960)}}]);
